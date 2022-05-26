@@ -1,6 +1,7 @@
+package exercises;
 
-class HelloWorld {
-    public static void main(String[] args) {
+public class IPTema3 {
+    public static void ejercicio() {
         ////////////////////////////
         // Primera parte:
         // - Llamar a la función suma y muestra el resultado

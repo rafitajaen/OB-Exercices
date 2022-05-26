@@ -2,5 +2,6 @@
 OpenBootcamp Exercices Repository by @rafitajaen
 
 ## Directorio de ejercicios
-### Introducción a la Programación
-Ejercicio Tema 3: [Ver aquí](/Ejercicios/01-IP/tema3/main.java)
+### 01. Introducción a la Programación
+ - Ejercicio Tema 3: [Ver aquí](/01-IP/exercises/IPTema3.java)
+ - Ejercicio Tema 4: [Ver aquí](/01-IP/exercises/IPTema4.java)
