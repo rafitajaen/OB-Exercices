@@ -2,6 +2,7 @@
 import exercises.IPTema3;
 import exercises.IPTema4;
 import exercises.IPTema8;
+import exercises.IPTema9;
 
 public class Main {
 
@@ -33,6 +34,14 @@ public class Main {
         System.out.println("-------------Tema 8-------------");
         System.out.println();
         IPTema8.ejercicio();
+
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
+        System.out.println("-------------Tema 9-------------");
+        System.out.println();
+        IPTema9.ejercicio();
 
         System.out.println();
         System.out.println();
