@@ -1,5 +1,5 @@
 # OB-Exercices
-OpenBootcamp Exercices Repository by @rafitajaen
+OpenBootcamp Exercises Repository by @rafitajaen
 
 ## Directorio de ejercicios
 ### 01. Introducción a la Programación
@@ -16,3 +16,4 @@ OpenBootcamp Exercices Repository by @rafitajaen
  - Ejercicio    - Tema 4 *(Introducción CSS)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema4-CSS.html)
  - Ejercicio    - Tema 5 *(Flexbox)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema5-Flex.html)
  - Ejercicio    - Tema 6 *(Pseudo)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema6-Pseudo.html)
+ - Ejercicio    - Tema 7 *(Login Dark Theme)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema7-Login.html)
