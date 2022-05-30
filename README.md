@@ -13,4 +13,5 @@ OpenBootcamp Exercices Repository by @rafitajaen
  - Ejercicio 1  - Tema 2 *(Formularios)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema2-Formularios.html)
  - Ejercicio 2  - Tema 2 *(Tablas)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema2-Tablas.html)
  - Ejercicio    - Tema 3 *(Multimedia)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema3-Multimedia.html)
- - Ejercicio    - Tema 4 *(Introducción CSS)*: [Ver aquí](/02-HTML-CSS/exercises//HTML-Tema4-CSS.html)
+ - Ejercicio    - Tema 4 *(Introducción CSS)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema4-CSS.html)
+ - Ejercicio    - Tema 5 *(Flexbox)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema5-Flex.html)
