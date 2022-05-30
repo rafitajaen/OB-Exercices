@@ -17,3 +17,4 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio    - Tema 5 *(Flexbox)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema5-Flex.html)
  - Ejercicio    - Tema 6 *(Pseudo)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema6-Pseudo.html)
  - Ejercicio    - Tema 7 *(Login Dark Theme)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema7-Login.html)
+ - Ejercicio    - Tema 8 *(Bootstrap)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema8-Bootstrap.html)
