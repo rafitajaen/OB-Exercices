@@ -12,12 +12,17 @@ body {
 
 .btn-modern{
     padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    background-color: beige;
 }
 
 .btn-modern:hover {
-    transform: translateX(-5px);
+    transform: translateY(-5px);
     box-shadow: 0px 0px 5px 1px black;
     background-color: darkmagenta;
     color: white;
     transition-duration: 0.4s;
+    border:none;
 }
