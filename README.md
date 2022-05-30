@@ -15,3 +15,4 @@ OpenBootcamp Exercices Repository by @rafitajaen
  - Ejercicio    - Tema 3 *(Multimedia)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema3-Multimedia.html)
  - Ejercicio    - Tema 4 *(Introducción CSS)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema4-CSS.html)
  - Ejercicio    - Tema 5 *(Flexbox)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema5-Flex.html)
+ - Ejercicio    - Tema 6 *(Pseudo)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema6-Pseudo.html)
