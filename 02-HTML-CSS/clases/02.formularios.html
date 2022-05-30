@@ -8,25 +8,30 @@
     </head>
     <body>
         <form action="03.resultados.html" method="get">
-        <div>
-            <label for="username">Username</label>
-            <input type="text" name="username" id="username" />
-        </div>
-        <br />
-        <div>
-            <label for="password">Password</label>
-            <input type="text" name="password" id="password" />
-        </div>
-        <br />
-        <div>
-            <label for="age">Edad</label>
-            <input type="date" name="age" id="age" />
-        </div>
-        <br />
-        <div>
-            <button type="reset">Reset</button>
-            <button type="submit">Enviar</button>
-        </div>
+            <div>
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" required />
+            </div>
+            <br />
+            <div>
+                <label for="password">Password</label>
+                <input type="text" name="password" id="password" required />
+            </div>
+            <br />
+            <div>
+                <label for="edad">Edad</label>
+                <input type="number" name="edad" id="edad" min="0" max="200" step="5" />
+            </div>
+            <br />
+            <div>
+                <label for="fecha">Fecha</label>
+                <input type="date" name="fecha" id="fecha" />
+            </div>
+            <br />
+            <div>
+                <button type="reset">Reset</button>
+                <button type="submit">Enviar</button>
+            </div>
         </form>
     </body>
     </html>
