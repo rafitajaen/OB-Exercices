@@ -1,0 +1,12 @@
+{
+  "name": "01-intro",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS con NodeJS en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RaFiTa",
+  "license": "ISC"
+}

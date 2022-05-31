@@ -22,3 +22,7 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio    - Tema 10 *(Responsive)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema10-Responsive.html)
  - Ejercicio    - Tema 11 *(Grid Bootstrap)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema11-GridBootstrap.html)
  - Ejercicio    - Tema 12 *(Elementos Bootstrap)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema12-ElementosBootstrap.html)
+
+### 03. JavaScript Básico
+ - Ejercicio    - Tema 1 *(Introducción)*: [Ver aquí](/03-JavaScript/exercises/01-intro/)
+ 
