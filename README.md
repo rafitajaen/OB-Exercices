@@ -19,3 +19,4 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio    - Tema 7 *(Login Dark Theme)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema7-Login.html)
  - Ejercicio    - Tema 8 *(Bootstrap)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema8-Bootstrap.html)
  - Ejercicio    - Tema 9 *(Animaciones)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema9-Animaciones.html)
+ - Ejercicio    - Tema 10 *(Responsive)*: [Ver aquí](/02-HTML-CSS/exercises/HTML-Tema10-Responsive.html)
