@@ -1,0 +1,48 @@
+    * {
+    margin: 0;
+    padding: 0;
+    }
+
+    body {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+    }
+
+    aside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 0.3rem;
+    background-color: aquamarine;
+    padding: 1rem;
+    }
+
+    article {
+    background-color: aqua;
+    padding: 2rem;
+    }
+
+    .element {
+    border-radius: 5px;
+    background-color: crimson;
+    color: white;
+    padding: 0.2rem 0.4rem;
+    }
+
+@media (min-width: 640px) {
+    body {
+        flex-direction: row;
+    }
+
+    aside {
+        flex-grow: 1;
+        flex-direction: column;
+    }
+
+    article {
+        flex-grow: 1;
+        background-color: aqua;
+        padding: 2rem;
+    }
+}
