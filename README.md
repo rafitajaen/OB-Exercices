@@ -29,5 +29,7 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio    - Tema 3 *(Estructuras Control)*: [Ver aquí](/03-JavaScript/exercises/03-estructuras-control/)
  - Ejercicio    - Tema 4 *(Cadenas)*: [Ver aquí](/03-JavaScript/exercises/04-cadenas/index.js)
  - Ejercicio    - Tema 5 *(Números)*: [Ver aquí](/03-JavaScript/exercises/05-numeros/index.js)
- - Ejercicio    - Tema 6 *(Números)*: [Ver aquí](/03-JavaScript/exercises/06-listas/index.js)
+ - Ejercicio    - Tema 6 *(Listas)*: [Ver aquí](/03-JavaScript/exercises/06-listas/index.js)
+ - Ejercicio 1  - Tema 7 *(Sets)*: [Ver aquí](/03-JavaScript/exercises/07-sets/conjuntos.js)
+ - Ejercicio 2  - Tema 7 *(Objetos)*: [Ver aquí](/03-JavaScript/exercises/07-sets/objetos.js)
  
