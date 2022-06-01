@@ -31,5 +31,6 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 5 *(Números)*: [Ver aquí](/03-JavaScript/exercises/05-numeros/index.js)
  - Ejercicio       - Tema 6 *(Listas)*: [Ver aquí](/03-JavaScript/exercises/06-listas/index.js)
  - Ejercicio 1 a 4 - Tema 7 *(Sets y Objetos)*: [Ver aquí](/03-JavaScript/exercises/07-sets-objetos/)
+ - Ejercicio       - Tema 8 *(Funciones)*: [Ver aquí](/03-JavaScript/exercises/08-funciones/index.js)
  
  
