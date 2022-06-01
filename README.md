@@ -27,4 +27,5 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio    - Tema 1 *(Introducción)*: [Ver aquí](/03-JavaScript/exercises/01-intro/)
  - Ejercicio    - Tema 2 *(Sintaxis)*: [Ver aquí](/03-JavaScript/exercises/02-sintaxis/index.js)
  - Ejercicio    - Tema 3 *(Estructuras Control)*: [Ver aquí](/03-JavaScript/exercises/03-estructuras-control/)
+ - Ejercicio    - Tema 4 *(Cadenas)*: [Ver aquí](/03-JavaScript/exercises/04-cadenas/index.js)
  
