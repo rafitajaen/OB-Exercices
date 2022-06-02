@@ -1,3 +1,8 @@
+/*
+ *    (Curso JavaScript Básico)
+ *        Ejercicio del Tema 10 - Modulos
+ */
+
 import * as controller from "./controller.js";
 import chalk from "chalk";
 
