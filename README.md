@@ -39,5 +39,6 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 13 *(ESLint)*: [Ver aquí](/03-JavaScript/exercises/13-ESLint/)
  - Ejercicio       - Tema 14 *(DOM)*: [Ver aquí](/03-JavaScript/exercises/14-JS/)
  - Ejercicio       - Tema 15 *(Persistencia)*: [Ver aquí](/03-JavaScript/exercises/15-persistencia/)
+ - Ejercicio       - Tema 16 *(DragNDrop)*: [Ver aquí](/03-JavaScript/exercises/16-dragndrop/)
  
  
