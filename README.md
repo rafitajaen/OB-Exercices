@@ -37,5 +37,6 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 11 *(OOP)*: [Ver aquí](/03-JavaScript/exercises/11-OOP/index.js)
  - Ejercicio       - Tema 12 *(Depuración)*: [Ver aquí](/03-JavaScript/exercises/12-depuracion/)
  - Ejercicio       - Tema 13 *(ESLint)*: [Ver aquí](/03-JavaScript/exercises/13-ESLint/)
+ - Ejercicio       - Tema 14 *(DOM)*: [Ver aquí](/03-JavaScript/exercises/14-JS/)
  
  
