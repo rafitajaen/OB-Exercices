@@ -34,6 +34,8 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 8 *(Funciones)*: [Ver aquí](/03-JavaScript/exercises/08-funciones/index.js)
  - Ejercicio       - Tema 9 *(Errores)*: [Ver aquí](/03-JavaScript/exercises/09-errores/)
  - Ejercicio       - Tema 10 *(Modulos)*: [Ver aquí](/03-JavaScript/exercises/10-modulos/)
- - Ejercicio       - Tema 11 *(OOP)*: [Ver aquí](/03-JavaScript/exercises/11-OOP/)
+ - Ejercicio       - Tema 11 *(OOP)*: [Ver aquí](/03-JavaScript/exercises/11-OOP/index.js)
+ - Ejercicio       - Tema 12 *(Depuración)*: [Ver aquí](/03-JavaScript/exercises/12-depuracion/)
+ - Ejercicio       - Tema 13 *(ESLint)*: [Ver aquí](/03-JavaScript/exercises/13-ESLint/)
  
  
