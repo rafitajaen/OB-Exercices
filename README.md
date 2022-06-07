@@ -45,4 +45,5 @@ OpenBootcamp Exercises Repository by @rafitajaen
 ### 04. React Básico
  - Task App        - PROYECTO *(Task App)*: [Ver aquí](/04-React-Basico/task-app/)
  - Ejercicio       - Tema 1-2-3 *(Presentación)*: [Ver aquí](/04-React-Basico/exercises/01-presentacion/)
+ - Ejercicio       - Tema 4-5-6 *(Componentes Funcionales)*: [Ver aquí](/04-React-Basico/exercises/02-functional-components/)
  
