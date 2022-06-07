@@ -41,5 +41,8 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 15 *(Persistencia)*: [Ver aquí](/03-JavaScript/exercises/15-persistencia/)
  - Ejercicio       - Tema 16 *(DragNDrop)*: [Ver aquí](/03-JavaScript/exercises/16-dragndrop/)
  - Ejercicio       - Tema 17 *(Google Maps)*: [Ver aquí](/03-JavaScript/exercises/17-mapas/)
- 
+
+### 04. React Básico
+ - Task App        - PROYECTO *(Task App)*: [Ver aquí](/04-React-Basico/task-app/)
+ - Ejercicio       - Tema 1-2-3 *(Presentación)*: [Ver aquí](/04-React-Basico/exercises/01-presentacion/)
  
