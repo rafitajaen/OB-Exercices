@@ -47,4 +47,5 @@ OpenBootcamp Exercises Repository by @rafitajaen
  - Ejercicio       - Tema 1-2-3 *(Presentación)*: [Ver aquí](/04-React-Basico/exercises/01-presentacion/)
  - Ejercicio       - Tema 4-5-6 *(Componentes Funcionales)*: [Ver aquí](/04-React-Basico/exercises/02-functional-components/)
  - Ejercicio       - Tema 7-8-9 *(Contact List App)*: [Ver aquí](/04-React-Basico/exercises/03-contact-list/)
+ - Ejercicio       - Tema 10-11-12 *(Conditional Render)*: [Ver aquí](/04-React-Basico/exercises/04-conditional-render/)
  
